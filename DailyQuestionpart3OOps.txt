@@ -1,0 +1,44 @@
+1.What is oops stands for?
+Ans: Object Oriented Programming
+
+2.What is Polymorphism? explain types?
+Ans: Polymorphism is a mutipleform of implementation
+Types:
+Method over loadding-Same class,same method with different arguments
+method over hidding-different class,same method and using extends keyword
+
+3.what is interface and example in selenium,java?
+Ans: Object oriented programming language
+It is a unimplement method
+keyword-implement
+
+4.what is abstarct class and example?
+Ans: It is a restricted class that cannot be used to create objects 
+And partialy implement and unimplement
+Ex: Inherited method
+
+5.Difference between multiple inheritance and multilevel inheritance
+Ans: Mutilple inheritance-inheritance types where a class inherits from more than one base class 
+     Multilevel inheritance-inheritance types that inherits from a derived class, 
+making thar derived class a base class for a new class
+
+6.Is multiple inheritance possible in java?
+Ans: Doesn't support 
+
+7.What is keyword for using inheritance  
+Ans: keyword-extends
+
+8.what is the keyword to connect interface and class
+Ans: implement
+
+9.what is difference between class and interface
+Ans: Class-Class describe the attributes and behaviors of an object
+           Class may contains abstract method, concrete methods.
+     Interface-Interface contains behaviors that a class implements
+               Interface contains only abstract methods.
+
+10.what is difference between class and abstract class
+Ans:  Class-Class describe the attributes and behaviors of an object
+            Class may contains abstract method, concrete methods.
+      Abstract class-Abstract class can have static method like other class
+                     Abstract class may or may not contain abstract method
