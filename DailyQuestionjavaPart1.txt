@@ -1,0 +1,51 @@
+1.Explain about the main method in java?
+    syntax is public static void main(String[] args) 
+       *public is a accessmodifire it can access from anywhere of the class
+       *static is a keyword
+       *void is return type of the method it don't return anything
+       *main method is jvm entery point
+       *Sting[]args can pass the argument while run time
+2.What are the different  Control flow Statements available in java?
+   *if statement
+   *if-else statement
+   *Nested if-statement
+   
+3.What is the Difference betweeen break and continue statements?
+    *The break statement is used to terminate the loop immediately. 
+    *The continue statement is used to skip the current iteration of the loop
+4.What is an Array? How will you declare an array in java?
+   * Array is a group of elements which have similar data types
+        int[] Array
+5.When will you get ArrayIndexOutOfBoundsException?
+     ArrayIndexOutOfBoundsException occurs when we access an array, or a Collection, that is backed by an array with an invalid index.
+6.Define the Syntax to create an object for a class.
+What are the naming conventions to be followed while creating a class, 
+method and a variable.Explain with examoles
+      syntax an object for a class 
+              classname object=new constuctor();
+Naming conversion:
+    class name:
+         class name should starts with uppercase
+            ex:Palindrome
+    variable name:
+          variable name must start with lowercase & followed by uppercase such as lastname()
+    method name:
+          it start with lowercase & followed by uppercase()
+            
+7.What is Variable?How will you declare a variables in java?
+ variable:
+    variable is a container,which holds the value while the jave is executed
+     int a;
+8.What is String in java? Is it a Data Type?
+    *String is the sequence of character.
+    *String is immutable
+    *String is a non-primitive data type. 
+ 
+9.What are the different ways to create the String Object in java?
+   By string literal : 
+               Ex: String str=“test leaf”;
+   By new keyword :
+               Ex: String s=new String(“Welcome”);
+10.What is the Difference between .Equals and ==? 
+      * == contains memory address
+      * .= contains content
